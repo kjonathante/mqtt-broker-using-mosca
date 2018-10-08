@@ -1,0 +1,11 @@
+{
+  "name": "mqtt-broker-using-mosca",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kjonathante/mqtt-broker-using-mosca.git",
+  "author": "Kit Jonathan Te <kjonathante@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mosca": "^2.8.3"
+  }
+}
